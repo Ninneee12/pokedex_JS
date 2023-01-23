@@ -17,7 +17,7 @@ Baixar pasta > abrir o vscode e importar a pasta baixada > executar com o live s
 
 ### For english
 
-# Welcome the Pokedex project
+# Welcome the Pokedex project!
 
 This project was developed with  **HTML/CSS/JS/BOOTSTRAP** to put my learning into practice.
 
